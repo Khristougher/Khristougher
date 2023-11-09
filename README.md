@@ -14,7 +14,7 @@ Welcome to my GitHub project! This is a space where beginners can challenge them
 
 ### What You'll Find Here
 - **Code Puzzles**: I'll post new code puzzles with intentional syntax errors or tracebacks for you to solve.
-- **Solutions**: Before attempting the puzzles, try avoiding seeing comments. I don't want to spoil your experience feeling you have accomplished or achieved puzzles, after you can check your solutions against mine.
+- **Solutions**: After attempting the puzzles, you can check your solutions against mine.
 - **Learning Resources**: I'll share resources that have been helpful to me in my coding journey.
 
 ### How to Get Involved
