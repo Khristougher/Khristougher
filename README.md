@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Python and other programming languages.
 - 👯 I’m looking to collaborate on beginner-friendly coding projects.
 - 🥅 2023>2024 Goals:
-Enhancing my coding skills, particularly in Python, and deepening my understanding of network systems. I aim to contribute to open-source projects, which will serve as my digital construction sites, becoming a software developer or network specialist. Alongside my technical goals, I'm also focused on building a strong foundation in IT fundamentals through Windows cmd promt & servers, Microsoft C#, and other essential tools and more. Ultimately, I'm excited to connect with a community of like-minded learners and professionals who share the passion for creating, problem-solving, and continuous learning in the tech space.-    
-- 
+Enhancing my coding skills, particularly in Python, and deepening my understanding of network systems. I aim to contribute to open-source projects, which will serve as my digital construction sites, becoming a software developer or network specialist. Alongside my technical goals, I'm also focused on building a strong foundation in IT fundamentals through Windows cmd promt & servers, Microsoft C#, and other essential tools and more. Ultimately, I'm excited to connect with a community of like-minded learners and professionals who share the passion for creating, problem-solving, and continuous learning in the tech space.
+ 
 - ⚡ Fun fact:
 I've swapped my hard hat and tire levers for code and command lines, transitioning from construction and tire tech to the world of IT. Now, I'm on a mission to build structures in the digital realm as a budding software developer or network specialist. Along the way, I'm tackling Python and mastering the Windows Command Prompt, one line of code at a time.
 
