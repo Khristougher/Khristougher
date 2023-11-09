@@ -7,9 +7,7 @@
 -    Enhancing my coding skills, particularly in Python, and deepening my understanding of network systems. I aim to contribute to open-source projects,
 -    which will serve as my digital construction sites, becoming a software developer or network specialist. Alongside my technical goals, I'm also
 -    focused on building a strong foundation in IT fundamentals through Windows cmd promt & servers, Microsoft C#, and other essential tools and more.
--    Ultimately, I'm excited to connect with a community of like-minded learners and professionals who share the passion for creating, problem-solving,
--    and continuous learning in the tech space.
--    
+-    Ultimately, I'm excited to connect with a community of like-minded learners and professionals who share the passion for creating, problem-solving, and continuous learning in the tech space.-    
 - 
 - ⚡ Fun fact:
 -    I've swapped my hard hat and tire levers for code and command lines, transitioning from construction and tire tech to the world of IT.
