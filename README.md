@@ -26,7 +26,7 @@ Welcome to my GitHub project! This is a space where beginners can challenge them
 If you're interested in creating puzzles, learning together, or just chatting about code, I'd love to hear from you. Here's how you can reach me:
 
 ### Let's Connect!
-- [Discord: Plantain4984]
+- Discord: corvyn_tavik
 
 Remember, the goal is to learn and grow together. Happy coding!
 
