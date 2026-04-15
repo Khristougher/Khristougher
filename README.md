@@ -1,4 +1,4 @@
-# Hi there, I'm [Khris] 👋
+# Hi there, I'm [Corvyn] 👋
 
 ## About Me
 - 🌱 I’m currently learning Python and other programming languages.
